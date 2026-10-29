@@ -203,6 +203,7 @@ REJECTED
 | Name | Role |
 |------|------|
 | Dhineshkumar I | Full Stack Developer |
+| Dharunya V | Database & Tester |
 
 ---
 
@@ -216,3 +217,4 @@ This project is built for **Smart India Hackathon 2025** educational purposes.
   <b>Built with ❤️ for Smart India Hackathon 2025</b><br>
   <i>Empowering citizens. Enabling governance.</i>
 </p>
+
